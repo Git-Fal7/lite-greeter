@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Elephant XGreeter
+Comment=Small and simple LightDM Greeter written in Python, using X11
+Exec=/usr/bin/new-greeter.py
+Type=Application
+X-LightDM-Session-Type=x
